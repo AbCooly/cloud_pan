@@ -1,0 +1,45 @@
+[2023-06-11 19:07:09.628]	local.info	awesomeProject/myGo.go:14	log init success!
+main.main
+	C:/Users/Administrator/GolandProjects/awesomeProject/myGo.go:14
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:250
+[2023-06-11 19:07:28.858]	local.info	awesomeProject/myGo.go:14	log init success!
+main.main
+	C:/Users/Administrator/GolandProjects/awesomeProject/myGo.go:14
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:250
+[2023-06-11 19:31:17.906]	local.info	awesomeProject/myGo.go:14	log init success!
+main.main
+	C:/Users/Administrator/GolandProjects/awesomeProject/myGo.go:14
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:250
+[2023-06-11 19:33:58.872]	local.info	awesomeProject/myGo.go:14	log init success!
+main.main
+	C:/Users/Administrator/GolandProjects/awesomeProject/myGo.go:14
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:250
+[2023-06-11 19:34:25.215]	local.info	awesomeProject/myGo.go:14	log init success!
+main.main
+	C:/Users/Administrator/GolandProjects/awesomeProject/myGo.go:14
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:250
+[2023-06-11 19:36:15.145]	local.info	awesomeProject/myGo.go:14	log init success!
+main.main
+	C:/Users/Administrator/GolandProjects/awesomeProject/myGo.go:14
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:250
+[2023-06-11 19:36:26.922]	local.info	awesomeProject/myGo.go:14	log init success!
+main.main
+	C:/Users/Administrator/GolandProjects/awesomeProject/myGo.go:14
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:250
+[2023-06-11 19:40:04.101]	local.info	awesomeProject/myGo.go:14	log init success!
+main.main
+	C:/Users/Administrator/GolandProjects/awesomeProject/myGo.go:14
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:250
+[2023-06-11 19:40:34.333]	local.info	awesomeProject/myGo.go:14	log init success!
+main.main
+	C:/Users/Administrator/GolandProjects/awesomeProject/myGo.go:14
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:250
